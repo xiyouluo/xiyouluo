@@ -8,11 +8,11 @@ I'm a third-year student at **Peking University** 🏫, one of the top two unive
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 
 ## 🧑‍🔬 Research Experience
 
