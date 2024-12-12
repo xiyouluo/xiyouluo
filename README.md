@@ -8,7 +8,7 @@ I'm a third-year student at **Peking University** 🏫, one of the top two unive
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 
 ### Tools
 
