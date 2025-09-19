@@ -19,7 +19,7 @@ I'm a third-year student at **Peking University** 🏫, one of the top two unive
 ### Institute of Condensed Matter and Material Physics
 
 **School of Physics, Peking University**  
-*June 2024 – Present*
+*2024*
 
 - Working in Prof. Ji Chen’s research group, focusing on the research and application of the kinetic Monte Carlo (KMC) method in computational physics.
 - Developed a Python‑based KMC simulator to study physical systems at the microscopic level.
@@ -31,6 +31,24 @@ I'm a third-year student at **Peking University** 🏫, one of the top two unive
 *2023*
 
 - Explored more in‑depth knowledge of computer graphics and machine learning in Prof. Zhouhui Lian’s research group.
+
+## 👨‍🏫 Teaching Experience
+
+### Introduction to Computation (B)
+
+**Peking University**  
+*Fall 2024, Fall 2025*  
+
+- Teaching Assistant for **Introduction to Computation (B)**.  
+- Assisted in helping students troubleshoot code, providing programming guidance and preparing exam questions.
+
+### Data Structure and Algorithm (B)
+
+**Peking University**  
+*Fall 2025*  
+
+- Teaching Assistant for **Data Structure and Algorithm (B)**.
+- Assisted in helping students troubleshoot code, providing programming guidance and preparing exam questions.
 
 ## 🌱 Current Learning
 
