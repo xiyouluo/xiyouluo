@@ -50,6 +50,11 @@ I'm a third-year student at **Peking University** 🏫, one of the top two unive
 - Teaching Assistant for **Data Structure and Algorithm (B)**.
 - Assisted in helping students troubleshoot code, providing programming guidance and preparing exam questions.
 
+## 🚀 My Projects
+
+### [CS101-Slides: A Beginner's Guide to Programming](/CS101-Slides/)
+- A set of slides designed to help newcomers navigate the initial challenges of programming, built with Slidev.
+
 ## 🌱 Current Learning
 
 - Computer Systems
